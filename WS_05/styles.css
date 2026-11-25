@@ -13,3 +13,8 @@
             flex: 100%;
         }
     }
+
+    .responsive-image {
+        max-width: 100%;
+        height: auto;
+    }
